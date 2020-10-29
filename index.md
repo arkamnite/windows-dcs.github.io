@@ -1,5 +1,3 @@
-layout: default
-
 ## Welcome to the Guide (2)
 
 We all love Microsoft Windows- but it isn't always as convenient as UNIX-like systems when it comes to software development. Accordingly, there are a set of tools and techniques you can use to make it a bit more homely- things like a terminal, package management, and the like. Luckily, the following guide will try and lay down the fundamentals so that you know what to do every time you need a new tool (rather than walking you through every specific install without explaining things).
