@@ -2,6 +2,17 @@
 
 We all love Microsoft Windows- but it isn't always as convenient as UNIX-like systems when it comes to software development. Accordingly, there are a set of tools and techniques you can use to make it a bit more homely- things like a terminal, package management, and the like. Luckily, the following guide will try and lay down the fundamentals so that you know what to do every time you need a new tool (rather than walking you through every specific install without explaining things).
 
+### What do I need?
+There are several modules in year 1 where you will be programming- for example
+- CS118: Programming for Computer Scientists (Java)
+- CS132: Computer Organisation and Architecture (C)
+- CS141: Functional Programming (Haskell)
+
+Of these languages, at least two of them are compiled- but you may not always have to install the compiler and 'language' seperately. For Windows, we will be using JDK (which is also standard for Linux) and Mingw-w64. This is based on MinGW (_Minimalist GNU for Windows)_.
+
+### On the topic of command prompt
+Command prompt has had a slighly troubled history, in that it wasn't anywhere near as good as the UNIX style terminal. It uses different commands and is ugly. Whilst Windows Terminal has succeeded command prompt in many ways, you still have other options such as using Git Bash (my preferred terminal) or installing the Windows Subsystem for Linux- which is slightly more involved. This guide will detail both.
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
