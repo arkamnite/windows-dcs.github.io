@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to the Guide (2)
 
-You can use the [editor on GitHub](https://github.com/arkamnite/windows-dcs.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We all love Microsoft Windows- but it isn't always as convenient as UNIX-like systems when it comes to software development. Accordingly, there are a set of tools and techniques you can use to make it a bit more homely- things like a terminal, package management, and the like. Luckily, the following guide will try and lay down the fundamentals so that you know what to do every time you need a new tool (rather than walking you through every specific install without explaining things).
 
 ### Markdown
 
