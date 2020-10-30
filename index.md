@@ -16,7 +16,7 @@ Command prompt has had a slighly troubled history, in that it wasn't anywhere ne
 ### Tutorials
 Installation and setup guides can be found here. However, some tutorials will link to more general pieces of information- that's why you can find every item at the end of the list.
 
-1. Installing a terminal alternative
+1. [Installing a terminal alternative](pages/terminal.md) 
 2. Recommended text editors, IDEs, and inbetween
 3. Installing Java
 4. Installing C
