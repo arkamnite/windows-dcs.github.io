@@ -1,5 +1,3 @@
-___permalink: /pages/terminal 
-
 ## Installing a terminal 
 
 ### Why install a terminal application?
