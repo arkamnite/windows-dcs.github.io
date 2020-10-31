@@ -1,6 +1,4 @@
-___
-permalink: /pages/terminal 
-___
+___permalink: /pages/terminal 
 
 ## Installing a terminal 
 
